@@ -1,0 +1,97 @@
+{
+    "total_weeks" : 4,
+    "days" : [
+        {
+            "exercises" : [
+                {
+                    "name" : "squat",
+                    "format" : "531_core"
+                },
+                {
+                    "name" : "squat",
+                    "format" : "fsl"
+                },
+                {
+                    "name" : "dips",
+                    "format" : "50"
+                },
+                {
+                    "name" : "chin-ups",
+                    "format" : "50"
+                }
+            ]
+
+        },
+        {
+            "exercises" : [
+                {
+                    "name" : "overhead press",
+                    "format" : "531_core"
+                },
+                {
+                    "name" : "overhead press",
+                    "format" : "fsl"
+                },
+                {
+                    "name" : "rows",
+                    "format" : "bbb@fsl"
+                },
+                {
+                    "name" : "hanging leg raises",
+                    "format" : "50"
+                },
+                {
+                    "name" : "lunges",
+                    "format" : "50"
+                }
+            ]
+
+        },
+        {
+            "exercises" : [
+                {
+                    "name" : "deadlift",
+                    "format" : "531_core"
+                },
+                {
+                    "name" : "deadlift",
+                    "format" : "fsl"
+                },
+                {
+                    "name" : "dips",
+                    "format" : "50"
+                },
+                {
+                    "name" : "facepulls",
+                    "format" : "100"
+                }
+            ]
+
+        },
+        {
+            "exercises" : [
+                {
+                    "name" : "bench press",
+                    "format" : "531_core"
+                },
+                {
+                    "name" : "bench press",
+                    "format" : "fsl"
+                },
+                {
+                    "name" : "rows",
+                    "format" : "bbb@fsl"
+                },
+                {
+                    "name" : "hanging leg raises",
+                    "format" : "50"
+                },
+                {
+                    "name" : "lunges",
+                    "format" : "50"
+                }
+            ]
+
+        }
+    ]
+}
